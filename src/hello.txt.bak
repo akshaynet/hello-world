@@ -1,4 +1,6 @@
 this is being added by git repository 3
+<<<<<<< HEAD
 one more entry by git repository 3 without having latest copy post updtae from git repository 2
+=======
 this is being added by git repository 2
-merge conflicts being resolved by repository3 owner, and will be pushed to the github repository
+>>>>>>> 377d85b079aef57c89442abdf5cc9c9df0734539
