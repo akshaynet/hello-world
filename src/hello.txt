@@ -1,1 +1,2 @@
 this is being added by git repository 3
+one more entry by git repository 3 without having latest copy post updtae from git repository 2
